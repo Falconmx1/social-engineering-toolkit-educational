@@ -1,0 +1,11 @@
+=== EJEMPLOS PARA CAPACITACIÓN EN SEGURIDAD ===
+(No usar contra personas reales sin permiso)
+
+1. Soporte técnico: "Hola, soy del departamento de TI. Necesito verificar tu contraseña por un problema en el servidor."
+   - Por qué es sospechoso: TI nunca pide contraseñas.
+
+2. Recursos Humanos: "Felicidades, tienes un bono. Haz clic en este enlace (simulado) para aceptarlo."
+   - Por qué es sospechoso: Los enlaces de beneficios no llegan sin previo aviso.
+
+3. Proveedor falso: "Soy de [empresa conocida]. Necesitamos actualizar tus datos de facturación urgentemente."
+   - Por qué es sospechoso: Las empresas reales no piden datos por correo no solicitado.
